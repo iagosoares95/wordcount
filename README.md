@@ -24,3 +24,5 @@ Go to your browser and type
 ```
 localhost:3000
 ```
+
+Now you can use the application, enjoy it!
